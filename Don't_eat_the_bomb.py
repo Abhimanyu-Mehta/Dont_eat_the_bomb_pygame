@@ -12,7 +12,7 @@ bg = pygame.transform.scale(background, (800, 600))
 
 pygame.display.set_caption('Apple catcher')
 
-icon = pygame.image.load('physics.png')
+icon = pygame.image.load('forbidden.png')
 pygame.display.set_icon(icon)
 
 mixer.music.load('background.wav')
